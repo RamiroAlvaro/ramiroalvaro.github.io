@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
+title: Blog
+description: Blog Personal
 author: Ramiro Alvaro
 github: https://github.com/ramiroalvaro
 about: Desenvolvedor Backend Python & Django
-disqus_shortname: stackproblems
+disqus_shortname:
 google_analytics:
 
 enableTags: true
