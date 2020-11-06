@@ -28,9 +28,9 @@ share:
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: Sobre mí
       url: /about/
-    - text: My Projects
+    - text: Mis proyectos
       url: /projects/
     - text: XML Feed
       url: /feed.xml
