@@ -4,7 +4,7 @@ author: Ramiro Alvaro
 github: https://github.com/ramiroalvaro
 about: Desenvolvedor Backend Python & Django
 disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+google_analytics:
 
 enableTags: true
 tagarray: []
@@ -15,16 +15,13 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
     - icon: fa-linkedin
       link: "https://linkedin.com/in/ramiro-alvaro"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
       link: "https://github.com/ramiroalvaro"
+    - icon: fa-email
+      link: "ramiroalvaro.ra@gmail.com"
+      
 
 share:
   twitter_username: github.io
