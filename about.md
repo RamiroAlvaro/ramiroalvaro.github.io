@@ -11,7 +11,8 @@ Mi objetivo principal es desarrollarme profesionalmente y evolucionar en mi sect
 Analista de sistemas con conocimientos en análisis, desarrollo y soporte de sistemas. Desarrollando aplicaciones web, utilizando Python, Django, TDD, Integración continua, Entrega continua.
 Experiencia en auditoría, logística, rutinas administrativas, financieras y comerciales.
 
-Analista Programador Universitario, recibido en la [Facultad de Informatica de la Universidad Nacional de La Plata](https://www.info.unlp.edu.ar/)
+Me recibí de Analista Programador Universitario, en la [Facultad de Informatica de la Universidad Nacional de La Plata](https://www.info.unlp.edu.ar/).
 
 E-mail: ramiroalvaro.ra@gmail.com
+
 WhatsApp: +55 31991387178
