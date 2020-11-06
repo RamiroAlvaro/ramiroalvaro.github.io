@@ -4,6 +4,14 @@ title: Sobre mí
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Tras años de experiencia, he tomado la decisión de reorientar mi carrera profesional con el ánimo de continuar aprendiendo y, también, aportar toda mi experiencia adquirida. Considero que el cambio es un signo de capacidad de superación y, por ello, creo que siempre sería capaz de aportar valor en la empresa en la que me encuentre.
 
-email: ramiroalvaro.ra@gmail.com
+Mi objetivo principal es desarrollarme profesionalmente y evolucionar en mi sector, de modo que busco oportunidades que me permitan hacerlo, al tiempo que trataré de alinearme completamente con los objetivos de la empresa.
+
+Analista de sistemas con conocimientos en análisis, desarrollo y soporte de sistemas. Desarrollando aplicaciones web, utilizando Python, Django, TDD, Integración continua, Entrega continua.
+Experiencia en auditoría, logística, rutinas administrativas, financieras y comerciales.
+
+Analista Programador Universitario, recibido en la [Facultad de Informatica de la Universidad Nacional de La Plata](https://www.info.unlp.edu.ar/)
+
+E-mail: ramiroalvaro.ra@gmail.com
+WhatsApp: +55 31991387178
