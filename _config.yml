@@ -24,8 +24,8 @@ social:
       
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username:
+  fb_appid:
 
 urls:
     - text: Sobre mí
