@@ -13,6 +13,7 @@ Tengo experiencia en auditoría, logística, rutinas administrativas, financiera
 
 Me recibí de Analista Programador Universitario, en la [Facultad de Informática de la Universidad Nacional de La Plata](https://www.info.unlp.edu.ar/).
 
-E-mail: ramiroalvaro.ra@gmail.com
-
-WhatsApp: +55 31991387178
+#### Contactos:
+-**E-mail:** ramiroalvaro@hotmail.com
+-**Telegram:** @ramiroalvaro
+-**WhatsApp:** +55 31991387178
