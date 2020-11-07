@@ -15,15 +15,15 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-linkedin
+    - icon: fab fa-linkedin
       link: "https://linkedin.com/in/ramiro-alvaro"
-    - icon: fa-github
+    - icon: fab fa-github
       link: "https://github.com/ramiroalvaro"
-    - icon: fa-envelope
+    - icon: fas fa-envelope
       link: "mailto:ramiroalvaro@hotmail.com"
-    - icon: fa-telegram
+    - icon: fab fa-telegram-plane
       link: "https://t.me/ramiroalvaro"
-    - icon: fa-whatsapp
+    - icon: fab fa-whatsapp
       link: 
       
 
