@@ -1,6 +1,6 @@
 ---
 layout: project_single
-title:  "Cool Project"
-slug: "cool-project"
+title:  "Python Pro"
+slug: "python-pro"
 ---
-Just a demo text for now, which signifies there is lot of scope for improvement.
+Projecto web de [código abierto](https://github.com/pythonprobr/pythonpro-website) en el cual estoy participando.

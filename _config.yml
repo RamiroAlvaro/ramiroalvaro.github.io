@@ -34,8 +34,8 @@ share:
 urls:
     - text: Sobre mí
       url: /about/
-    #- text: Mis proyectos
-    #  url: /projects/
+    - text: Proyectos
+      url: /projects/
     - text: XML Feed
       url: /feed.xml
 
