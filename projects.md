@@ -4,4 +4,4 @@ title: Proyectos
 permalink: /projects/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+Lista de proyectos web, podrás consultar información del proyecto, técnicas y habilidades utilizadas.
