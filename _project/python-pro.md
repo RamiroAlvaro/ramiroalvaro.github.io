@@ -9,6 +9,7 @@ Projecto web de [código abierto](https://github.com/pythonprobr/pythonpro-websi
 - PostgreSQL
 - Heroku
 - PyTest
+- Docker
 - Celery
 - Redis
 - RabbitMQ
