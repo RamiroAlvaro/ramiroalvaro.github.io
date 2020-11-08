@@ -14,7 +14,7 @@ layout: default
       {% assign day = post.date | date: "%d" %}
       {% assign month = months[m] %}
       {% assign year = post.date | date: "%Y" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ day }} {{ month }} {{ year }}</span></i></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ day }}/{{ month }}/{{ year }}</span></i></li>
     {% endfor %}
   </ol>
 
