@@ -9,7 +9,7 @@ categories: [python]
 Como implementar clases cuyas instancias soporten comparación por medio de los operadores ```>, >=, <, <=, ==, !=```
 
 #### Solución:
-Para no tener que implementar todos los métodos especiales ```__eq__(), __lt__(), __le__(), __gt__(), __ge__(), __ne__()``` importaremos de ```functools``` el decorador ```total_ordering```. De esta manera solo deberemos implementar el método ```__eq__()``` y uno mas de los restantes métodos, como por ejemplo ```__lt__()```.
+Para no tener que implementar todos los métodos especiales ```__eq__(), __lt__(), __le__(), __gt__(), __ge__(), __ne__()``` importaremos de ```functools``` el decorador ```total_ordering```. De esta manera solo deberemos implementar el método ```__eq__()``` y uno más de los restantes métodos, como por ejemplo ```__lt__()```.
 
 #### Implementación:
 ```python
