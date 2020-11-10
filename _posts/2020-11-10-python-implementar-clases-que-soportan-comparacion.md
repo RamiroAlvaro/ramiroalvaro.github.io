@@ -16,19 +16,19 @@ Para no tener que implementar todos los métodos especiales ```__eq__(), __lt__(
 from functools import total_ordering
 
 @total_ordering
-    class Square:
-        def __init__(self, side):
-            self.side = side
+class Square:
+    def __init__(self, side):
+        self.side = side
 
-        @property
-        def area(self):
-            return self.side ** 2
+    @property
+    def area(self):
+        return self.side ** 2
 
-        def __eq__(self, other):
-           return self.area == other.area
+    def __eq__(self, other):
+       return self.area == other.area
 
-        def __lt__(self, other):
-            return self.area < other.area
+    def __lt__(self, other):
+        return self.area < other.area
 ```
 ###### Sesión de consola:
 
