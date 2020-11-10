@@ -62,7 +62,7 @@ In [10]: square_2 <= square_5
 Out[10]: True
 ```
 
-Los siguientes métodos fueron de fueron creados por ```@total_ordering```:
+Los siguientes métodos fueron creados por el decorador ```@total_ordering```:
 ```python
 __le__ = lambda self, other: self < other or self == other
 __gt__ = lambda self, other: not (self < other or self == other)
