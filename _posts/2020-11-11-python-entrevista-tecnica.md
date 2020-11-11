@@ -39,6 +39,7 @@ Uma execução do programa proposto deve rodar 300 simulações, imprimindo no c
 ----------------
 
 ### Solução proposta:
+Usando doctest
 
 ```python
 """
