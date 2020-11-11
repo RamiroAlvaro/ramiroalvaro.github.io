@@ -1,5 +1,5 @@
-title: Blog
-description: Blog Personal
+title: Stack Problems
+description: My Personal Stack Problems
 author: Ramiro Alvaro
 github: https://github.com/ramiroalvaro
 about: Desarrollador Backend Python & Django
@@ -32,9 +32,9 @@ share:
   fb_appid:
 
 urls:
-    - text: Sobre mí
+    - text: About Me
       url: /about/
-    - text: Proyectos
+    - text: My Projects
       url: /projects/
     - text: XML Feed
       url: /feed.xml
