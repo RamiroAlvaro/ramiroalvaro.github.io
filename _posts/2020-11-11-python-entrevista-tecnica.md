@@ -26,8 +26,10 @@ Desejamos rodar uma simulação para decidir qual a melhor estratégia. Para iss
 - O jogador aleatório compra a propriedade que ele parar em cima com probabilidade de 50%.
 - Caso o jogo demore muito, como é de costume em jogos dessa natureza, o jogo termina na milésima rodada com a vitória do jogador com mais saldo. 
 - O critério de desempate é a ordem de turno dos jogadores nesta partida.
+
 #### Saída:
 Uma execução do programa proposto deve rodar 300 simulações, imprimindo no console os dados referentes às execuções.
+
 #### Esperamos encontrar nos dados as seguintes informações:
 - Quantas partidas terminam por time out (1000 rodadas).
 - Quantos turnos em média demora uma partida.
