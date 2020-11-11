@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Implementar clases que soportan comparación en Python [ES]"
+title:  "Como implementar clases que soportan comparación en Python [ES]"
 date:   2020-11-10 18:00:00 -0300
 categories: [python]
 ---
