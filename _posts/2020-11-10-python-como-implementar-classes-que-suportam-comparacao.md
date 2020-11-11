@@ -11,7 +11,7 @@ Como implementar classes cujas instâncias suportam comparação por meio dos op
 ----------------
 
 #### Solução:
-Para não ter que implementar todos os métodos especiais ```__eq__(), __lt__(), __le__(), __gt__(), __ge__(), __ne__()``` vamos importar de ```functools``` o decorador ```total_ordering```. 
+Para não ter que implementar todos os métodos especiais (```__eq__(), __lt__(), __le__(), __gt__(), __ge__(), __ne__()```) vamos importar de ```functools``` o decorador ```total_ordering```. 
 Desta forma, só teremos que implementar o método ```__eq__()``` e mais um dos outros métodos, como por exemplo ```__lt__()```.
 
 ----------------
