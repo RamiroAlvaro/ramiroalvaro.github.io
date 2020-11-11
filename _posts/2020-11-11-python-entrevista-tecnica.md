@@ -2,7 +2,7 @@
 layout: post
 title:  "Desafio em entrevista [PT]"
 date:   2020-11-11 14:00:00 -0300
-categories: [python, entrevista-tecnica]
+categories: [python, entrevista]
 ---
 
 ### Problema:
